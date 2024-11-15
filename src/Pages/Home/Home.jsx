@@ -1,8 +1,7 @@
 import React from "react";
 import "./Home.css";
-import gsap from "gsap";
 import FirstSection from "./FirstSection/FirstSection";
-import { ReactLenis, useLenis } from "lenis/react";
+import { ReactLenis } from "lenis/react";
 import Navbar from "../../Components/Navbar/Navbar";
 
 export default function Home() {

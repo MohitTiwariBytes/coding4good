@@ -1,6 +1,5 @@
-import React, { useEffect } from "react";
+import React from "react";
 import "./Navbar.css";
-import gsap from "gsap";
 import Link from "../Link/LinkText";
 import Button from "../Buttons/Button";
 
