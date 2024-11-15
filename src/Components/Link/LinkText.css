@@ -1,0 +1,21 @@
+.underlineText {
+  width: auto;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.underlineText a {
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  font-family: "HeyWow";
+}
+
+.line {
+  height: 2px;
+  width: 100%;
+  position: relative;
+  left: -100px;
+  border-radius: 50px;
+}
